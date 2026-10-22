@@ -15,7 +15,7 @@ Actualmente, el objeto modifica las estadísticas del jugador:
 - Velocidad: `+0.1`
 
 El objeto aparece no automáticamente, usar mods como [Da Rules]( https://steamcommunity.com/sharedfiles/filedetails/?id=2403871374.
-) para aparecerlo con el nombre "ABSOABSOLUTEY_HORRIDDARLING_V2"
+) para spawnearlo con el nombre "ABSOLUTEY_HORRIDDARLING_V2"
 
 ## Requisitos
 
