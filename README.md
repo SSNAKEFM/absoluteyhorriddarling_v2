@@ -1,0 +1,79 @@
+# Absolutey Horrid Darling V2
+
+Un mod experimental para **The Binding of Isaac: Repentance**, creado para aprender Lua y trabajar con la API de mods del juego.
+
+## Características
+
+El mod añade el objeto coleccionable:
+
+> **ABSOLUTEY_HORRIDDARLING_V2**
+
+Actualmente, el objeto modifica las estadísticas del jugador:
+
+- Multiplicador de daño: `100`
+- Lágrimas: `+0.1`
+- Velocidad: `+0.1`
+
+El objeto aparece automáticamente al comenzar una partida nueva.
+
+## Requisitos
+
+- The Binding of Isaac: Repentance
+- Acceso a la carpeta de mods del juego
+
+## Instalación
+
+1. Descarga o clona este repositorio.
+2. Copia la carpeta del proyecto dentro de:
+
+   ```text
+   Documents/My Games/Binding of Isaac Repentance/mods/
+   ```
+
+3. Comprueba que los archivos principales estén dentro de la carpeta del mod:
+
+   ```text
+   Absolutey-Horrid-Darling-V2/
+   ├── main.lua
+   ├── items.xml
+   └── README.md
+   ```
+
+4. Abre The Binding of Isaac: Repentance.
+5. Activa el mod desde el menú de mods si es necesario.
+6. Inicia una partida nueva para probarlo.
+
+## Estructura del proyecto
+
+### `main.lua`
+
+Contiene la lógica principal del mod:
+
+- Registra el mod.
+- Obtiene el ID del objeto mediante su nombre.
+- Hace aparecer el objeto al comenzar una partida nueva.
+- Aplica sus bonificaciones usando el sistema de caché de estadísticas.
+
+### `items.xml`
+
+Define la información del objeto coleccionable para que el juego pueda reconocerlo.
+
+## Estado del proyecto
+
+Este proyecto se encuentra en desarrollo. Las estadísticas y el comportamiento del objeto pueden cambiar mientras se agregan nuevas funciones.
+
+## Objetivos futuros
+
+- Crear una descripción personalizada para el objeto.
+- Añadir un sprite propio.
+- Ajustar el balance de las estadísticas.
+- Agregar efectos especiales al recogerlo.
+- Probar compatibilidad con diferentes modos de juego.
+
+## Créditos
+
+Proyecto creado por **Emir Fernando Mendoza Puc** como práctica de programación en Lua y desarrollo de mods.
+
+## Licencia
+
+Este proyecto es un trabajo personal y educativo. The Binding of Isaac y sus elementos pertenecen a sus respectivos propietarios.
