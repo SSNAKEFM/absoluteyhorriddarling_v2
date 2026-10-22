@@ -1,6 +1,6 @@
 # Absolutey Horrid Darling V2
 
-Un mod experimental para **The Binding of Isaac: Repentance**, creado para aprender Lua y trabajar con la API de mods del juego.
+Un mod experimental para **The Binding of Isaac: Repentance**
 
 ## Características
 
@@ -14,8 +14,8 @@ Actualmente, el objeto modifica las estadísticas del jugador:
 - Lágrimas: `+0.1`
 - Velocidad: `+0.1`
 
-El objeto aparece no automáticamente, usar mods como Da Rules para aparecerlo con el nombre "ABSOABSOLUTEY_HORRIDDARLING_V2":
- https://steamcommunity.com/sharedfiles/filedetails/?id=2403871374.
+El objeto aparece no automáticamente, usar mods como [Da Rules]( https://steamcommunity.com/sharedfiles/filedetails/?id=2403871374.
+) para aparecerlo con el nombre "ABSOABSOLUTEY_HORRIDDARLING_V2"
 
 ## Requisitos
 
@@ -64,11 +64,10 @@ Este proyecto se encuentra en desarrollo. Las estadísticas y el comportamiento 
 
 ## Objetivos futuros
 
-- Crear una descripción personalizada para el objeto.
-- Añadir un sprite propio.
-- Ajustar el balance de las estadísticas.
-- Agregar efectos especiales al recogerlo.
-- Probar compatibilidad con diferentes modos de juego.
+- Coherencia con la temática del mod.
+- Sonidos personalizados.
+- Apariciones dentro del juego.
+- Publicación dentro de la plataforma de Steam Workshop
 
 ## Créditos
 
