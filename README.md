@@ -14,7 +14,8 @@ Actualmente, el objeto modifica las estadísticas del jugador:
 - Lágrimas: `+0.1`
 - Velocidad: `+0.1`
 
-El objeto aparece automáticamente al comenzar una partida nueva.
+El objeto aparece no automáticamente, usar mods como Da Rules para aparecerlo con el nombre "ABSOABSOLUTEY_HORRIDDARLING_V2":
+ https://steamcommunity.com/sharedfiles/filedetails/?id=2403871374.
 
 ## Requisitos
 
@@ -51,7 +52,6 @@ Contiene la lógica principal del mod:
 
 - Registra el mod.
 - Obtiene el ID del objeto mediante su nombre.
-- Hace aparecer el objeto al comenzar una partida nueva.
 - Aplica sus bonificaciones usando el sistema de caché de estadísticas.
 
 ### `items.xml`
@@ -72,7 +72,7 @@ Este proyecto se encuentra en desarrollo. Las estadísticas y el comportamiento 
 
 ## Créditos
 
-Proyecto creado por **Emir Fernando Mendoza Puc** como práctica de programación en Lua y desarrollo de mods.
+MOD creado por **[RemixSAA](https://steamcommunity.com/profiles/76561199357380669)** y Modificado por **ShadeeDX** como práctica de programación en Lua.
 
 ## Licencia
 
