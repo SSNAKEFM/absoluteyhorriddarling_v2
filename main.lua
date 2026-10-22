@@ -10,7 +10,7 @@ local COLLECTIBLE_ABSOLUTEY_HORRIDDARLING_STATS = {
 
 function mod.onGameStart(fromsave)
    if not fromsave then
-    Isaac.Spawn(EntityType.ENTITY_PICKUP, PickupVariant.PICKUP_COLLECTIBLE, COLLECTIBLE_ABSOLUTEY_HORRIDDARLING, Isaac.GetFreeNearPosition(Vector(320, 320), 40), Vector(0, 0), nil)
+    Isaac.Spawn(EntityType.ENTITY_PICKUP, PickupVariant.PICKUP_COLLECTIBLE, COLLECTIBLE_ABSOLUTEY_HORRIDDARLING, Isaac.GetFreeNearPosition(Vector(0, 0), player.Position), Vector(0, 0), nil)
     end
 end
 
