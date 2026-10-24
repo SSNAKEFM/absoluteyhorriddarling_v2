@@ -1,6 +1,6 @@
-local mod = RegisterMod("Absolutey Horrid Darling V2", 1)
+local mod = RegisterMod("FluttersCube", 1)
 
-local COLLECTIBLE_ABSOLUTEY_HORRIDDARLING = Isaac.GetItemIdByName("ABSOLUTEY_HORRIDDARLING_V2")
+local COLLECTIBLE_ABSOLUTEY_HORRIDDARLING = Isaac.GetItemIdByName("FluttersCube")
 
 local COLLECTIBLE_ABSOLUTEY_HORRIDDARLING_STATS = {
     DamageMultiplier = 0.4,
