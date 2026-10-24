@@ -1,4 +1,4 @@
-# Absolutey Horrid Darling V2
+# Flutters Cube
 
 Un mod experimental para **The Binding of Isaac: Repentance**
 
@@ -6,7 +6,7 @@ Un mod experimental para **The Binding of Isaac: Repentance**
 
 El mod añade el objeto coleccionable:
 
-> **ABSOLUTEY_HORRIDDARLING_V2**
+> **FLutters Cube**
 
 Actualmente, el objeto modifica las estadísticas del jugador:
 
@@ -15,7 +15,7 @@ Actualmente, el objeto modifica las estadísticas del jugador:
 - Velocidad: `+0.3`
 
 El objeto aparece no automáticamente, usar mods como [Da Rules]( https://steamcommunity.com/sharedfiles/filedetails/?id=2403871374.
-) para spawnearlo con el nombre "ABSOLUTEY_HORRIDDARLING_V2"
+) para spawnearlo con el nombre "Flutters Cube"
 
 ## Requisitos
 
@@ -71,7 +71,7 @@ Este proyecto se encuentra en desarrollo. Las estadísticas y el comportamiento 
 
 ## Créditos
 
-MOD creado por **[RemixSAA](https://steamcommunity.com/profiles/76561199357380669)** y Modificado por **ShadeeDX** como práctica de programación en Lua.
+MOD creado originalmente por **[RemixSAA](https://steamcommunity.com/profiles/76561199357380669)** y modificado por **ShadeeDX** como práctica de programación en Lua.
 
 ## Licencia
 
