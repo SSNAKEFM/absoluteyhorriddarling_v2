@@ -3,9 +3,9 @@ local mod = RegisterMod("Absolutey Horrid Darling V2", 1)
 local COLLECTIBLE_ABSOLUTEY_HORRIDDARLING = Isaac.GetItemIdByName("ABSOLUTEY_HORRIDDARLING_V2")
 
 local COLLECTIBLE_ABSOLUTEY_HORRIDDARLING_STATS = {
-    DamageMultiplier = 100,
-    TEARS = 0.1,
-    SPEED = 0.1
+    DamageMultiplier = 0.4,
+    TEARS = 0.8,
+    SPEED = 0.5
 }
 
 function mod.onGameStart(fromsave)

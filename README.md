@@ -10,9 +10,9 @@ El mod añade el objeto coleccionable:
 
 Actualmente, el objeto modifica las estadísticas del jugador:
 
-- Multiplicador de daño: `100`
-- Lágrimas: `+0.1`
-- Velocidad: `+0.1`
+- Multiplicador de daño: `0.4`
+- Lágrimas: `+0.8`
+- Velocidad: `+0.3`
 
 El objeto aparece no automáticamente, usar mods como [Da Rules]( https://steamcommunity.com/sharedfiles/filedetails/?id=2403871374.
 ) para spawnearlo con el nombre "ABSOLUTEY_HORRIDDARLING_V2"
